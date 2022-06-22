@@ -21,3 +21,7 @@ Preprocess the mask with morphological operations (Eroding and dilation).
 Detect the contours, find the center coordinates of largest contour and keep storing them in the array for successive frames (Arrays for drawing points on canvas). 
  
 Finally draw the points stored in an array on the frames and canvas.
+![HElloIIITM](https://user-images.githubusercontent.com/77240570/174952971-424ab7e1-b4ac-4691-8e58-6c5213e91cb3.png)
+
+
+![hi](https://user-images.githubusercontent.com/77240570/174952886-af0d033f-e28d-4c09-b5b5-d109db465674.png)
